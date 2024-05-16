@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "563271476070",
+    "firebase_url": "https://greenninja-ce7d3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "greenninja-ce7d3",
+    "storage_bucket": "greenninja-ce7d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563271476070:android:43190a31c1439c027c1ea7",
+        "android_client_info": {
+          "package_name": "com.lidhult.soulbound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLiM4ELxVoUvNUm-e-DrJjWtHc5Qyaumk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
